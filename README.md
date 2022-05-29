@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lavlou
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently learning to code with/for my thesis
 - 💞️ I’m looking to collaborate in the future
 - 📫 How to reach me: s1085870@stud.sbg.ac.at
 
